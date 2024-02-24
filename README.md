@@ -2,7 +2,7 @@
 
 🏛️ Internet Archive URL: https://archive.org/details/proper1g1r-collection
 
-This repository documents the [Retool](https://unexpectedpanda.github.io/retool) setup used to create the collection, the known missing systems and games, and is also used to track [issues](https://github.com/proper1g1r/proper1g1r-collection/issues).
+This repository documents the [Retool](https://unexpectedpanda.github.io/retool) setup used to create the collection, the missing systems, and is also used to track [issues](https://github.com/proper1g1r/proper1g1r-collection/issues).
 
 ## Retool setup
 
@@ -187,14 +187,7 @@ The only option checked was "Prefer licensed versions over unlicensed, aftermark
 
 </details>
 
-## Missing systems and games
-
-### Games not found
-
-They're not present in [No-Intro ROM Sets (2024)](https://archive.org/details/ni-romsets) or [Myrient](https://myrient.erista.me/files/No-Intro) and weren't found anywhere else.
-
-- Atari - 8-bit Family is missing [Centipede (Europe)](https://datomatic.no-intro.org/index.php?page=show_record&s=203&n=0009).
-- Sega - Beena is missing [Taiko no Tatsujin Ongaku Lesson (Japan)](https://datomatic.no-intro.org/index.php?page=show_record&s=113&n=0058) and [Pururun! Shizuku-chan Asonde Tanoshiku Nouryoku Up (Japan)](https://datomatic.no-intro.org/index.php?page=show_record&s=113&n=0057).
+## Missing systems
 
 ### Systems not found
 
